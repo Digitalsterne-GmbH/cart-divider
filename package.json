@@ -1,6 +1,6 @@
 {
   "name": "digitalsterne-cart-divider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Divide your ecommerce tracking in commision groups for affiliate networks (f.e. AWIN)",
   "main": "src/divider.js",
   "scripts": {
