@@ -1,0 +1,27 @@
+{
+  "name": "digitalsterne-cart-divider",
+  "version": "1.0.0",
+  "description": "Divide your ecommerce tracking in commision groups for affiliate networks (f.e. AWIN)",
+  "main": "src/divider.js",
+  "scripts": {
+    "test": "node ./test/divide-simple.js",
+    "start": "node ./src/divider.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digitalsterne-GmbH/cart-divider.git"
+  },
+  "keywords": [
+    "cart",
+    "divider",
+    "awin",
+    "comission",
+    "groups"
+  ],
+  "author": "Patrick Schababerle <patrick.schababerle@digitalsterne.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Digitalsterne-GmbH/cart-divider/issues"
+  },
+  "homepage": "https://github.com/Digitalsterne-GmbH/cart-divider#readme"
+}
